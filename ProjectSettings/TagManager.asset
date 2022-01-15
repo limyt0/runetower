@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rune
+  - rune1
+  - rune2
+  - rune3
+  - Door_Key
+  - Door_L
+  - Door_R
+  - Effect
+  - Effect2
+  - Effect1
+  - Effect3
+  - goal_effect
+  - rune_light
+  - rune4
+  - key
+  - bullet
+  - light1
+  - handlight
+  - wall
+  - button1
+  - book
+  - stone
+  - box
+  - candle
+  - item
+  - none
+  - firewood
+  - firewood_fire
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
