@@ -1,5 +1,8 @@
 # runetower
 
+제작기간: 2020.08월~2020.09월
+Unity로 제작.
+
 ## 제작: Team 솔플
 
 팀장: 최성길
@@ -24,7 +27,6 @@
 ![image](https://user-images.githubusercontent.com/80087763/151273181-aa352ca6-298e-4649-8348-951f299c6104.png)
 
 빨강->노랑->파랑 (무지개색순서)로 룬을 총으로 쏘면 룬이 활성화 됩니다.
-(계속 작성 예정)
 
 ![image](https://user-images.githubusercontent.com/80087763/151389742-540be86f-f3f3-473d-8eba-db524b1440cc.png)
 
@@ -34,6 +36,7 @@
 ## stage별 특징
 
 stage별로 다른 방식으로 룬을 찾는다.
+
 ![image](https://user-images.githubusercontent.com/80087763/151391130-5a4b029c-26cd-47e0-b383-599c668787d7.png)
 
 스테이지1: 튜토리얼 stage로서, 기본적 조작방법과 플레이 방법을 안내문구를 통해 알려준다.
