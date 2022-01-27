@@ -1,6 +1,7 @@
 # runetower
 
 제작기간: 2020.08월~2020.09월
+
 Unity로 제작.
 
 ## 제작: Team 솔플
@@ -39,25 +40,25 @@ stage별로 다른 방식으로 룬을 찾는다.
 
 ![image](https://user-images.githubusercontent.com/80087763/151391130-5a4b029c-26cd-47e0-b383-599c668787d7.png)
 
-스테이지1: 튜토리얼 stage로서, 기본적 조작방법과 플레이 방법을 안내문구를 통해 알려준다.
+stage1: 튜토리얼 stage로서, 기본적 조작방법과 플레이 방법을 안내문구를 통해 알려준다.
 안내문구를 따라서 플레이하기만 하면 쉽게 클리어가 가능하다.
 
 
 ![image](https://user-images.githubusercontent.com/80087763/151391161-fba19176-8299-42ac-baa4-f34bd69398a3.png)
 
-룬이 사각지대에 존재한다.
+stage2: 룬이 사각지대에 존재한다.
 구조물을 이용해 사각지대에 있는 룬을 모두 찾아야 한다.
 
 
 ![image](https://user-images.githubusercontent.com/80087763/151391182-d297965b-c9ca-44a1-8343-248939eb5db8.png)
 
-특정 조건에서만 룬이 생성된다.
+stage3: 특정 조건에서만 룬이 생성된다.
 주어진 여러가지 퍼즐들을 풀어야 룬이 생성된다.
 
 
 ![image](https://user-images.githubusercontent.com/80087763/151391201-520d2d81-75dc-4808-8ca9-9dd689f67b07.png)
 
-미로를 찾아가며 룬을 찾아야 한다.
+stage4: 미로를 찾아가며 룬을 찾아야 한다.
 정답이 아닌 길로 가면 괴물이 쫓아온다.
 괴물과 접촉할 경우 미로의 처음부분부터 다시 플레이해야 한다.
 
