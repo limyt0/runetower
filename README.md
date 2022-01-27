@@ -19,12 +19,45 @@
 그 총으로 룬을 맞추면 룬이 켜집니다.
 
 
-## 1층
-![image](https://user-images.githubusercontent.com/80087763/151273076-e47f7b6b-7a49-4387-9082-4fe15cde03f7.png)
-
-![image](https://user-images.githubusercontent.com/80087763/151273122-3992c99e-e37c-4ace-afef-6321c891f1d8.png)
-자동으로 문이 열리고 옆방으로 이동 가능
+## 기본 플레이 방식
 
 ![image](https://user-images.githubusercontent.com/80087763/151273181-aa352ca6-298e-4649-8348-951f299c6104.png)
+
 빨강->노랑->파랑 (무지개색순서)로 룬을 총으로 쏘면 룬이 활성화 됩니다.
 (계속 작성 예정)
+
+![image](https://user-images.githubusercontent.com/80087763/151389742-540be86f-f3f3-473d-8eba-db524b1440cc.png)
+
+모든룬 활성화 하면 워프존이 활성화
+->워프존에 닿으면 다음맵으로 이동
+
+## stage별 특징
+
+stage별로 다른 방식으로 룬을 찾는다.
+![image](https://user-images.githubusercontent.com/80087763/151391130-5a4b029c-26cd-47e0-b383-599c668787d7.png)
+
+스테이지1: 튜토리얼 stage로서, 기본적 조작방법과 플레이 방법을 안내문구를 통해 알려준다.
+안내문구를 따라서 플레이하기만 하면 쉽게 클리어가 가능하다.
+
+
+![image](https://user-images.githubusercontent.com/80087763/151391161-fba19176-8299-42ac-baa4-f34bd69398a3.png)
+
+룬이 사각지대에 존재한다.
+구조물을 이용해 사각지대에 있는 룬을 모두 찾아야 한다.
+
+
+![image](https://user-images.githubusercontent.com/80087763/151391182-d297965b-c9ca-44a1-8343-248939eb5db8.png)
+
+특정 조건에서만 룬이 생성된다.
+주어진 여러가지 퍼즐들을 풀어야 룬이 생성된다.
+
+
+![image](https://user-images.githubusercontent.com/80087763/151391201-520d2d81-75dc-4808-8ca9-9dd689f67b07.png)
+
+미로를 찾아가며 룬을 찾아야 한다.
+정답이 아닌 길로 가면 괴물이 쫓아온다.
+괴물과 접촉할 경우 미로의 처음부분부터 다시 플레이해야 한다.
+
+
+
+
